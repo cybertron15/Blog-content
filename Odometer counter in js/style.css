@@ -42,3 +42,23 @@ body,html{
 .red{
     background-color: rgb(227, 136, 111);
 }
+
+.outer-container{
+    overflow: hidden;
+    background-color:rgb(189, 200, 201);
+    padding-left: 4px;
+    height: 70px;
+    border: 2px black solid;
+}
+
+.number-container{
+    font-family: 'Consolas';
+    font-size: 60px;
+    width: 0.6em;
+    transition: transform;
+    transition-duration: 0.2s;
+}
+
+.number{
+    height: 70px;
+}
