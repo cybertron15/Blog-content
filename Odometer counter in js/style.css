@@ -44,7 +44,6 @@ body,html{
 }
 
 .outer-container{
-    overflow: hidden;
     background-color:rgb(189, 200, 201);
     padding-left: 4px;
     height: 70px;
